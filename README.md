@@ -14,7 +14,7 @@ apt install wget
 apt install python
 ```
 ```
-wget 
+wget https://raw.githubusercontent.com/darkhunter141/Instagram-Reports/main/reports.py
 ```
 ```
 python reports.py
